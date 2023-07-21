@@ -320,7 +320,7 @@ display: flex;
   .last{
     position: absolute;
     width: calc(100%-900px);
-    left: 900px;
+    left: 1000px;
   }
   .strategy{
     width: 250px;
