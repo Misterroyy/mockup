@@ -462,6 +462,7 @@ span.house{
     }
   
     .last{
+        margin-top: 20px;
         position: absolute;
         left: 0px;
         top: 1700px;
